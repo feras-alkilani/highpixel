@@ -1,0 +1,32 @@
+OVERVIEW
+
+HighPixel Photography Template is a – Full screen Photography Theme based on HTML5,
+CSS3 and Bootstrap4.
+ Photography Portfolio is a perfect and feature rich HTML5 theme for photographer
+, portfolio of a model, professionals etc. The theme can be used to create a simple
+ startup photographer website to a complete business solution.
+
+FEATURES :
+
+Fully Responsive Bootstrap4 Latest
+Clean, Modern & Beautiful Design
+Home Page Slider
+100% Responsive
+Google Fonts Used
+100+ Font Icon Included
+Very Smooth Transition Effects
+Super Easy To Customize
+Well Commented Code
+W3C 100% Valid Code
+Well Documented
+
+FILE INCLUDED :
+
+HTML Files
+Supporting CSS, JS files
+Documentation in HTML
+Image Credit :
+
+Google
+Pexels
+Pixabay
